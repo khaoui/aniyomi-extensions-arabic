@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Aniyomi: faselhds",
+    "apk": "faselhd-v1.apk",
+    "lang": "ar",
+    "code": 7,
+    "version": "1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "faselhds",
+        "lang": "ar"
+        "baseUrl": "https://www.faselhds.life"
+      }
+    ]
+  },
