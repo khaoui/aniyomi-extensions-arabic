@@ -1,16 +1,15 @@
-[
-  {
-    "name": "Aniyomi: faselhds",
+ {
+    "name": "Aniyomi: faselhd",
+    "pkg": "eu.kanade.tachiyomi.animeextension.ar.faselhd",
     "apk": "faselhd-v1.apk",
     "lang": "ar",
-    "code": 7,
+    "code": 24,
     "version": "1",
     "nsfw": 0,
     "sources": [
       {
-        "name": "faselhds",
-        "lang": "ar"
+        "name": "faselhd",
+        "lang": "ar",
+        "id": "1378291029586884571",
         "baseUrl": "https://www.faselhds.life"
       }
-    ]
-  },
