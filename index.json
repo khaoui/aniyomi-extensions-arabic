@@ -1,6 +1,6 @@
  {
     "name": "Aniyomi: faselhds",
-    "pkg": "ar.faselhd",
+    "pkg": "eu.kanade.tachiyomi.animeextension.ar.faselhd",
     "apk": "faselhd-v1.apk",
     "lang": "ar",
     "code": 24,
